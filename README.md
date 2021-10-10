@@ -7,15 +7,16 @@ I hope you can find useful stuff here 😉
 
 
 ### 🔭 I’m currently working as: 
-- Lecturer
+- Yogyakarta State University Student
 - Researcher
+- Seo Specialist
 - Sometimes Programmer
 
-### 🌱 I’m currently learning: 
-- Recommender system
+### 🌱 I’m currently learning:
 - Machine learning
 - Data science
+- AI
 
 ### 📫 How to reach me: 
 - [email](mailto:willy@hax.or.id)
-- [blog](https://hax.or.id)
+- [website](https://hax.or.id)
