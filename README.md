@@ -30,5 +30,5 @@ I hope you can find useful stuff here 😉
 </p>
 
 <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=willygoid&theme=whatsapp-dark2)](https://git.io/streak-stats)
+    <a href="https://github.com/willygoid"><img src="https://streak-stats.demolab.com?user=willygoid&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
 </div>
