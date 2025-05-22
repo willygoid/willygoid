@@ -2,8 +2,8 @@
 I hope you can find useful stuff here 😉
 
 
-[![Repos Badge](https://badges.pufler.dev/repos/willygoid)](https://github.com/willygoid?tab=repositories)
-[![Visits Badge](https://badges.pufler.dev/visits/willygoid/willygoid)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/willygoid)](https://github.com/willygoid?tab=repositories)(https://github.com/willygoid)
+[![Visits Badge](https://badges.pufler.dev/visits/willygoid/willygoid)](https://github.com/willygoid)
 
 
 ### 🔭 I’m currently working as: 
@@ -17,9 +17,9 @@ I hope you can find useful stuff here 😉
 - Data science
 - AI
 
-### 📫 How to reach me: 
-- [email](mailto:willy@hax.or.id)
-- [website](https://hax.or.id)
+//### 📫 How to reach me: 
+//- [email](mailto:willy@hax.or.id)
+//- [website](https://hax.or.id)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
@@ -32,3 +32,10 @@ I hope you can find useful stuff here 😉
 <div align="center">
     <a href="https://github.com/willygoid"><img src="https://streak-stats.demolab.com?user=willygoid&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
 </div>
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="https://willy.pro/"><img src="https://img.shields.io/badge/-willy.pro-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/willi-bianyosa/"><img src="https://img.shields.io/badge/-Willy%20Bianyosa%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:willy@haxor.id"><img src="https://img.shields.io/badge/-willy@haxor.id-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/willygoid/"><img src="https://img.shields.io/badge/-@willygoid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/willygoid/"><img src="https://img.shields.io/badge/-@willygoid-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
