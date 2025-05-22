@@ -2,7 +2,7 @@
 I hope you can find useful stuff here 😉
 
 
-[![Repos Badge](https://badges.pufler.dev/repos/willygoid)](https://github.com/willygoid?tab=repositories)(https://github.com/willygoid)
+[![Repos Badge](https://badges.pufler.dev/repos/willygoid)](https://github.com/willygoid?tab=repositories)
 [![Visits Badge](https://badges.pufler.dev/visits/willygoid/willygoid)](https://github.com/willygoid)
 
 
